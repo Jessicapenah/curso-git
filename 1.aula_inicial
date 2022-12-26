@@ -1,0 +1,12 @@
+Desvendando github
+
+comandos para o terminal do pc:
+
+git --version #versão do git e se ja ta instalado
+
+// configurando sua conta no seu computador
+
+git config --global user.name "Jessicapenah"
+
+git config --global user.email "jessicapenah@yahoo.com.br"
+
