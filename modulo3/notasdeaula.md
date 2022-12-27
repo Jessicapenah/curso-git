@@ -13,3 +13,7 @@ para voltar/ir para uma git especifica:
 quando voce faz o commit em uma branch so vai existir aquela pasta, aruivo ou conteudo nessa branch
 
 ## Enviando a branch do local para o remoto
+
+## git merge
+fazendo o merge entre branchs
+git merge (nome da branch) -> vai mergear na tua branch atual (acho)
