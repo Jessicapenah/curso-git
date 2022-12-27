@@ -16,8 +16,17 @@ git add nome_do_arquivo -> vai so adicionar esse arquivo
 -tem um codgio unico referente aquela alteração ou seja voce pode reverter isso
 
 
-# sequencia de passos
+## sequencia de passos
 1- git status
 2- alteração que quiser
 3- git add .
 4- git commit -m "mensagem de lembrete"
+
+
+## git push 
+antes de atualizar no nosso github precisamos conectar o github ao nosso local
+então fazer: git push --set-upstream origin master
+depois disso vai aparecer la no github
+
+## git pull
+ai ele vai trazer tudo que tem la no github pro local
