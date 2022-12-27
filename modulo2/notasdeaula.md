@@ -16,3 +16,8 @@ git add nome_do_arquivo -> vai so adicionar esse arquivo
 -tem um codgio unico referente aquela alteração ou seja voce pode reverter isso
 
 
+# sequencia de passos
+1- git status
+2- alteração que quiser
+3- git add .
+4- git commit -m "mensagem de lembrete"
