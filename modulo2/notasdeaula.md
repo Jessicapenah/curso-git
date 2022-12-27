@@ -12,6 +12,7 @@ git add . -> adiciona tudo que ta na fila (o que criaste entre um e outro)
 git add nome_do_arquivo -> vai so adicionar esse arquivo
 
 ## git commit
+git commit -m "comentario sobre o commit"
 -comit é um registro do status do nosso -codigo contendo as alterações, quem e quando alterou.
 -tem um codgio unico referente aquela alteração ou seja voce pode reverter isso
 
