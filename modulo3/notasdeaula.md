@@ -17,3 +17,14 @@ quando voce faz o commit em uma branch so vai existir aquela pasta, aruivo ou co
 ## git merge
 fazendo o merge entre branchs
 git merge (nome da branch) -> vai mergear na tua branch atual (acho)
+
+
+## receita:
+git status
+git checkout -b (nome da branch) -> se quiser criar uma branch nova
+alterações
+git add .
+git status
+git commit -m "comentarios sobre alterações"
+git merge (nome da branch para ser adicionada) -> lembre de estar na branch que queres mergear 
+git push -> para fazer o update no github
