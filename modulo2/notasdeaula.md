@@ -28,6 +28,8 @@ git commit -m "comentario sobre o commit"
 antes de atualizar no nosso github precisamos conectar o github ao nosso local
 então fazer: git push --set-upstream origin master
 depois disso vai aparecer la no github
+git push -> quando ja tem a branch
+
 
 ## git pull
 ai ele vai trazer tudo que tem la no github pro local
